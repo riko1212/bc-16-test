@@ -1,1 +1,0 @@
-{"version":3,"sources":["sass/layout/_example.scss"],"names":[],"mappings":"AAAA,OACE,SAAA,CACA","file":"src.d6a4507d.css","sourceRoot":"../src","sourcesContent":[".title {\n  color: red;\n  font-size: 24px;\n}\n"]}

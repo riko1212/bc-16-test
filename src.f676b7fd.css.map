@@ -1,0 +1,1 @@
+{"version":3,"sources":["sass/layout/_example.scss","sass/layout/_footer.scss"],"names":[],"mappings":"AAAA,OACE,SAAA,CACA,eCDA,eACE","file":"src.f676b7fd.css","sourceRoot":"../src","sourcesContent":[".title {\n  color: red;\n  font-size: 24px;\n}\n",".footer {\n  &__title {\n    color: blue;\n  }\n}\n"]}
